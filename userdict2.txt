@@ -1,0 +1,35 @@
+Band gap
+Band gaps
+band gap
+band gaps
+bandgap
+Formation energy
+formation energy
+SpecificHeat
+Specific Heat
+specific heat
+specificheat
+FirstIonization
+First-Ionization
+firstionization
+first ionization
+NumberofNeutrons
+Number of Neutrons
+Number of neutrons
+number of neutrons
+Tolerance factor
+tolerance factor
+Octahedral factor
+octahedral factor
+MeltingPoint
+Melting Point
+Melting point
+melting point
+AtomicMass
+Atomic Mass
+Atomic mass
+atomic mass
+NumberofShells
+Number of Shells
+Number of shells
+number of shells
