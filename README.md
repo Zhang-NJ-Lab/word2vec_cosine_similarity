@@ -8,7 +8,7 @@ results.txt :自定义分词后的文件
 
 userdict2.txt :自定义词典
 
-modle.txt 文件：经过word2vec建立好的模型，可在百度网盘自行下载
+model.txt 文件：经过word2vec建立好的模型，可在百度网盘自行下载
 
 链接：https://pan.baidu.com/s/1Dkc0Auo7xSUJ9juai3MhSg 
 
